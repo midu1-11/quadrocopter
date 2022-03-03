@@ -17,13 +17,13 @@ software文件夹中有飞控和遥控器的程序
   
 ## 四.功能展示
 图1 四轴飞行器正面  
-![四轴飞行器正面](https://s4.ax1x.com/2022/02/27/bn4HHS.jpg)  
+![四轴飞行器正面](https://s4.ax1x.com/2022/03/03/bYSoTI.jpg)  
 图2 四轴飞行器背面  
-![四轴飞行器背面](https://s4.ax1x.com/2022/02/27/bn5jaD.jpg)  
+![四轴飞行器背面](https://s4.ax1x.com/2022/03/03/bYSLp8.jpg)  
 图3 遥控器  
-![遥控器](https://s4.ax1x.com/2022/02/27/bnIisP.jpg)  
+![遥控器](https://s4.ax1x.com/2022/03/03/bYp9kq.jpg)  
 图4 充电器  
-![充电器](https://s4.ax1x.com/2022/02/27/bnIisP.jpg)  
+![充电器](https://s4.ax1x.com/2022/03/03/bYp11O.jpg)  
  
 ## 五.技术详情  
 1. 陀螺仪和加速度计采用mpu6050芯片，使用芯片自带DMP姿态解算获取四元数然后计算出俯仰角、翻滚角、偏航角
