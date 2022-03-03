@@ -20,8 +20,10 @@ software文件夹中有飞控和遥控器的程序
 ![四轴飞行器正面](https://s4.ax1x.com/2022/03/03/bYSoTI.jpg)  
 图2 四轴飞行器背面  
 ![四轴飞行器背面](https://s4.ax1x.com/2022/03/03/bYSLp8.jpg)  
-图3 遥控器  
-![遥控器](https://s4.ax1x.com/2022/03/03/bYp9kq.jpg)  
+图3 遥控器正面  
+![遥控器正面](https://s4.ax1x.com/2022/03/03/bYp9kq.jpg)  
+图3 遥控器背面  
+![遥控器背面](https://s4.ax1x.com/2022/03/03/bYpIvF.jpg)
 图4 充电器  
 ![充电器](https://s4.ax1x.com/2022/03/03/bYp11O.jpg)  
  
